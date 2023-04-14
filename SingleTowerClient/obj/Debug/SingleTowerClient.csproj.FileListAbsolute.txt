@@ -1,0 +1,14 @@
+C:\Users\P0358\source\repos\SingleTowerClient\SingleTowerClient\bin\Debug\SingleTowerClient.exe.config
+C:\Users\P0358\source\repos\SingleTowerClient\SingleTowerClient\bin\Debug\SingleTowerClient.exe
+C:\Users\P0358\source\repos\SingleTowerClient\SingleTowerClient\bin\Debug\SingleTowerClient.pdb
+C:\Users\P0358\source\repos\SingleTowerClient\SingleTowerClient\bin\Debug\MQTTnet.dll
+C:\Users\P0358\source\repos\SingleTowerClient\SingleTowerClient\obj\Debug\SingleTowerClient.csprojAssemblyReference.cache
+C:\Users\P0358\source\repos\SingleTowerClient\SingleTowerClient\obj\Debug\SingleTowerClient.Form1.resources
+C:\Users\P0358\source\repos\SingleTowerClient\SingleTowerClient\obj\Debug\SingleTowerClient.Properties.Resources.resources
+C:\Users\P0358\source\repos\SingleTowerClient\SingleTowerClient\obj\Debug\SingleTowerClient.csproj.GenerateResource.cache
+C:\Users\P0358\source\repos\SingleTowerClient\SingleTowerClient\obj\Debug\SingleTowerClient.csproj.CopyComplete
+C:\Users\P0358\source\repos\SingleTowerClient\SingleTowerClient\obj\Debug\SingleTowerClient.exe
+C:\Users\P0358\source\repos\SingleTowerClient\SingleTowerClient\obj\Debug\SingleTowerClient.pdb
+C:\Users\P0358\source\repos\SingleTowerClient\SingleTowerClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\P0358\source\repos\SingleTowerClient\SingleTowerClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\P0358\source\repos\SingleTowerClient\SingleTowerClient\bin\Debug\TsecTowerBuzzer.dll
